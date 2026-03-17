@@ -79,7 +79,7 @@ User sends a question in Telegram group
 | 🏢 **True Multi-tenancy** | Complete data isolation per project (knowledge base, history, persona, limits) |
 | 💬 **Conversation Memory** | Per-user dialogue history with LLM-based summarization for long conversations |
 | 🌍 **Language-Agnostic Responses** | Bot replies in whatever language the user writes in — no configuration needed |
-| 💳 **Flexible Payments** | Subscriptions paid natively in crypto via Cryptocloud; card payments via Lavatop for non-Web3 projects — no manual processing either way |
+| 💳 **Flexible Payments** | Subscriptions paid natively in crypto via Cryptocloud; (will be added) card payments via Lavatop for non-Web3 projects — no manual processing either way |
 | 🔐 **Security First** | API keys encrypted with Fernet, JWT-verified webhooks, Redis rate limiting |
 | ⚙️ **Zero-Code Onboarding** | Full setup via 7-step FSM inside Telegram — no dashboard needed |
 | 🔄 **Background Workers** | arq-based async jobs for subscription expiry checks and notifications |
@@ -95,7 +95,7 @@ User sends a question in Telegram group
 | **Pro** | $19 / mo | 100 chunks |
 | **Business** | $39 / mo | 200 chunks |
 
-All plans include a **7-day free trial**. Payments processed in crypto via Cryptocloud.
+All plans include a **7-day free trial**. Payments processed in crypto via Cryptocloud.(+ Lavatop in future)
 
 ---
 
