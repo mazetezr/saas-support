@@ -8,7 +8,7 @@ Thanks for your interest! Here's how to get started.
 
 1. Fork the repo and clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/saas-support.git
+   git clone https://github.com/mazetezr/saas-support.git
    cd saas-support
    ```
 
